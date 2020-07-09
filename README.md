@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ELK stack & Splunk
 - 🤔 I’m looking for help with Emotional Intelligence
 - 💬 Ask me about Kibana
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 📫 How to reach me: Youre halfway there.
+- 😄 Pronouns: You must be odd to be number one
 - ⚡ Fun fact: my height is 193 cm
 
 <!--
