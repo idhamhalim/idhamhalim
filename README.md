@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Splunk
 - 👯 I’m looking to collaborate on ELK stack & Splunk
 - 🤔 I’m looking for help with Emotional Intelligence
-- 💬 Ask me about Kibana
+- 💬 Ask me about life
 - 📫 How to reach me: Youre halfway there.
 - 😄 Pronouns: You must be odd to be number one
 - ⚡ Fun fact: my height is 193 cm
