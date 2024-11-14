@@ -7,7 +7,7 @@
 - 💬 Ask me about life
 - 📫 How to reach me: Youre halfway there.
 - 😄 Pronouns: You must be odd to be number one
-- ⚡ Fun fact: my height is 193 cm
+- ⚡ Fun fact: my height is 189 cm
 
 <!--
 **idhamhalim/idhamhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
